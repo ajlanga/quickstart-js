@@ -1,12 +1,9 @@
 export const firebaseConfig = {
-  // Your web app's Firebase configuration here
-  // See https://firebase.google.com/docs/web/setup#add-sdks-initialize
-  apiKey: 'API_KEY',
-  authDomain: 'PROJECT_ID.firebaseapp.com',
-  databaseURL: 'https://PROJECT_ID.firebaseio.com',
-  projectId: 'PROJECT_ID',
-  storageBucket: 'PROJECT_ID.appspot.com',
-  messagingSenderId: 'SENDER_ID',
-  appId: 'APP_ID',
-  measurementId: 'G-MEASUREMENT_ID',
+  apiKey: "AIzaSyDSFmruqJXcK7TGquApXJ4KkTBNENRY0v0",
+  authDomain: "portal-development-envir-d6bf1.firebaseapp.com",
+  projectId: "portal-development-envir-d6bf1",
+  storageBucket: "portal-development-envir-d6bf1.appspot.com",
+  messagingSenderId: "246591518101",
+  appId: "1:246591518101:web:37dc02cdd4732de4e2729c",
+  measurementId: "G-9NZ1WF1VXR"
 };

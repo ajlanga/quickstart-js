@@ -27,6 +27,7 @@
   },
   "scripts": {
     "bootstrap": "lerna bootstrap",
-    "test": "scripts/test.sh"
+    "test": "scripts/test.sh",
+    "start": "react-scripts start"
   }
 }
